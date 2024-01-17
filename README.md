@@ -13,7 +13,7 @@ Steps:
    
 2- Install Ubuntu in phisical or virtual server (Tested in Vmware, Proxmox, Hyper-v and VirtualBox. Recomend network in bridge mode).
    If need help for instalation you can preview the screenshoots steps for my base installation in document install_ubuntu22x64.pdf.
-   This server need internet connection for install odoo.
+   This server need internet connection for install odoo and recommned install ssh server
    
 3- Download and copy the odoo_install_ubuntu22_x64.sh in odoo user in new installation server
 
