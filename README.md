@@ -31,7 +31,8 @@ Script NOTES:
 -  At the moment this script NOT INSTALL proxy and certificates
 
 
-If you are interested, you can visit my docker repository: https://hub.docker.com/u/sardes
+If you are interested, you can visit my docker repository: https://hub.docker.com/u/sardes, where you can try my odoo's containers.
+
 
   
 
