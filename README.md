@@ -29,6 +29,10 @@ Script NOTES:
 - Script create postgres sql user said odoo15, odoo16 or odoo17 depending on the database you install with password "odoo" for external connections. if you like change (recommended), user alter user method. Documentation in https://www.postgresql.org/docs/14/sql-alteruser.html. For example execute psql with postgres user  with the commmand ``ALTER user odoo WITH PASSWORD 'YourPassword'``
 -  Script install base modules what i think, libs needed for python modules, postgresql, requirements for odoo depending of version selected, and systemd init script for odoo
 -  At the moment this script NOT INSTALL proxy and certificates
+
+
+If you are interested, you can visit my docker repository: https://hub.docker.com/u/sardes
+
   
 
 
