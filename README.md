@@ -9,7 +9,7 @@ Is tested in ubuntu-22.04.3-live-server-amd64 download from https://releases.ubu
 Steps:
 
 1- Download Ubuntu 22.4
-   https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-live-server-amd64.iso
+   ``https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-live-server-amd64.iso``
    
 2- Install Ubuntu in physical or virtual server (Tested in Vmware, Proxmox, Hyper-v and VirtualBox. Recomend network in bridge mode).
    If need help for instalation you can preview the screenshoots steps for my base installation in document install_ubuntu22x64.pdf.
@@ -17,9 +17,9 @@ Steps:
    
 3- Download and copy the odoo_install_ubuntu22_x64.sh in odoo user in new installation server
 
-4- change permision chmod a+x ./odoo_install_ubuntu22_x64 
+4- change permision ``chmod a+x ./odoo_install_ubuntu22_x64``
 
-5- execute script with sudo ./odoo_install_ubuntu22_x64
+5- execute script with ``sudo ./odoo_install_ubuntu22_x64``
 
 
 
