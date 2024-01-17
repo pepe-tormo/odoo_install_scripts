@@ -23,3 +23,11 @@ Steps:
 
 
 
+Script NOTES: 
+
+- Script create and linux user said odoo15, odoo16 or odoo17 depending on the database you install without password
+- Script create postgres sql user said odoo15, odoo16 or odoo17 depending on the database you install with password "odoo" for external connections. if you like change (recomend), user alter user method. Documentation in https://www.postgresql.org/docs/14/sql-alteruser.html. For example execute psql with postgres user  with the commmand ALTER user odoo WITH PASSWORD 'YourPassword'
+  
+
+
+
