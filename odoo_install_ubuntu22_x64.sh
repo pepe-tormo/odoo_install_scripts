@@ -64,7 +64,7 @@ install_menu() {
 					;;
 				2)
 					echo "Odoo 16 OCB :: Oca Comunity Asociation"
-					VERODOO="17"
+					VERODOO="16"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/OCA/OCB.git"
 					VENV="NO"
@@ -76,7 +76,7 @@ install_menu() {
 					;;	
 				3)
 					echo "Odoo 15 OCB :: Oca Comunity Asociation"
-					VERODOO="17"
+					VERODOO="15"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/OCA/OCB.git"
 					VENV="NO"
@@ -102,7 +102,7 @@ install_menu() {
 					;;
 				5)
 					echo "Odoo 16 :: Oficial Distro"
-					VERODOO="17"
+					VERODOO="16"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/odoo/odoo.git"
 					VENV="NO"
@@ -115,7 +115,7 @@ install_menu() {
 					;;
 				6)
 					echo "Odoo 15 :: Oficial Distro"
-					VERODOO="17"
+					VERODOO="15"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/odoo/odoo.git"
 					VENV="NO"
@@ -146,7 +146,7 @@ install_menu() {
 
 				8)
 					echo "Odoo 16 OCB :: Oca Comunity Asociation with Venv Python"
-					VERODOO="17"
+					VERODOO="16"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/OCA/OCB.git"
 					VENV="YES"
@@ -162,7 +162,7 @@ install_menu() {
 
 				9)
 					echo "Odoo 15 OCB :: Oca Comunity Asociation with Venv Python"
-					VERODOO="17"
+					VERODOO="15"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/OCA/OCB.git"
 					VENV="YES"
@@ -194,7 +194,7 @@ install_menu() {
 
 				8)
 					echo "Odoo 16 :: Oficial Distro"
-					PREFIX="odoo16"
+					VERODOO="16"
 					PREFIX="odoo${VERODOO}"
 					GITODOO="https://github.com/odoo/odoo.git"
 					VENV="YES"
